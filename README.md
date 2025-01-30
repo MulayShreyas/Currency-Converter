@@ -48,10 +48,3 @@ Open the index.html file in your browser:
   Enter the amount you want to convert.
   
   Click the "Convert" button to see the result.
-
-## Contribution
-
-We welcome contributions from the community! If you find a bug or have a feature request, please open an issue on GitHub. You can also fork the repository, make your changes, and submit a pull request.
-License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
